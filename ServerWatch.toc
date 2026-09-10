@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: ServerWatch
+## Notes: Warns when the server stops responding
+## Author: shunrai4714
+## Version: 1.0
+
+ServerWatch.lua

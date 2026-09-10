@@ -10,9 +10,9 @@ ServerWatch checks your connection to the game server. If the server stops answe
 
 ## Slash Commands
 
-/serverwatch status or /swatch status: Shows if the monitor is active, if it thinks you are disconnected, and how long since the server last answered.
+`/serverwatch status` or `/swatch status`: Shows if the monitor is active, if it thinks you are disconnected, and how long since the server last answered.
 
-/serverwatch test or /swatch test: Turns the warning on or off, so you can test that it works.
+`/serverwatch test` or `/swatch test`: Turns the warning on or off, so you can test that it works.
 
 ## Installation
 

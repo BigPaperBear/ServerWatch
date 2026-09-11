@@ -1,5 +1,7 @@
 # ServerWatch
 
+[![Downloads](https://img.shields.io/github/downloads/BigPaperBear/ServerWatch/total?style=flat-square&label=Downloads)](https://github.com/BigPaperBear/ServerWatch/releases)
+
 A World of Warcraft addon for OctoWoW. It warns you when the server stops responding.
 
 Originally created by shunrai4714.
